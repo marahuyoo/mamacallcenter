@@ -336,6 +336,7 @@ h3 {
   .logo img{
     height: 0;
     width: 0;
+    display: none;
   }
    h3{
     border: 0;
