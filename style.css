@@ -346,6 +346,7 @@ h3 {
   
   header {
     padding: 30px 10px;
+    position: absolute;
   }
   .text{
     padding: 50% 50px;
